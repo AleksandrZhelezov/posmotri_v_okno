@@ -54,7 +54,7 @@ ol {
   justify-content: space-between;
 }
 
-.content__list {
+.content__list { 
   position: relative;
   block-size: 298px;
   overflow: auto;
